@@ -1,0 +1,4 @@
+DDDDdfldldfldlfldfl Invalid because the characters are longer or shorter than 15 or do not start with the sequence docnum or contract
+docnumdjkdfkj Invalid because the characters are longer or shorter than 15 or do not start with the sequence docnum or contract
+1212   21212221 Invalid because the characters are longer or shorter than 15 or do not start with the sequence docnum or contract
+docnum***,,,111 Invalid because it contains spaces and characters other than letters and numbers
