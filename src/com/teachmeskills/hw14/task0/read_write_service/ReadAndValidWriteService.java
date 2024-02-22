@@ -1,4 +1,4 @@
-package com.teachmeskills.hw14.task0.valid_service;
+package com.teachmeskills.hw14.task0.read_write_service;
 
 import com.teachmeskills.hw14.task0.util.Consts;
 
