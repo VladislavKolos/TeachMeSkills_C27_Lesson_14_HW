@@ -2,10 +2,7 @@ package com.teachmeskills.hw14.task0.read_write_service;
 
 import com.teachmeskills.hw14.task0.util.Consts;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
@@ -111,6 +108,8 @@ public class ReadAndValidWriteService {
                     }
                 }
             }
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found");
         } catch (IOException e) {
             System.out.println("Exception message");
         } catch (Exception e) {
